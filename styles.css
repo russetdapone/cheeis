@@ -1,0 +1,4 @@
+img{width:100%;object-fit:cover}
+#sw,#se,#ne,#nw{overflow:scroll}
+div::-webkit-scrollbar {  display: none;
+}
